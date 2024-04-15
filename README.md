@@ -1,0 +1,2 @@
+# ExcelFromKintone
+Kintone情報を読み込むExcelファイル
